@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starlabs_portfolio/static/css/main.22cfc963.css",
+    "main.js": "/starlabs_portfolio/static/js/main.17fbd728.js",
+    "static/media/cv.pdf": "/starlabs_portfolio/static/media/cv.0929629e29023ec16305.pdf",
+    "static/media/me.png": "/starlabs_portfolio/static/media/me.b09745a1366c08a30c20.png",
+    "static/media/mebig.png": "/starlabs_portfolio/static/media/mebig.fbf168bdd96e03037bfa.png",
+    "static/media/portfolio1.jpg": "/starlabs_portfolio/static/media/portfolio1.eb8d7a2351af97361ec4.jpg",
+    "static/media/bg-texture1.png": "/starlabs_portfolio/static/media/bg-texture1.0d4b4d72a395c5affc00.png",
+    "static/media/portfolio3.jpg": "/starlabs_portfolio/static/media/portfolio3.3ceba4407563785feafc.jpg",
+    "static/media/portfolio2.jpg": "/starlabs_portfolio/static/media/portfolio2.74647df4ff59a00afa32.jpg",
+    "index.html": "/starlabs_portfolio/index.html",
+    "main.22cfc963.css.map": "/starlabs_portfolio/static/css/main.22cfc963.css.map",
+    "main.17fbd728.js.map": "/starlabs_portfolio/static/js/main.17fbd728.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cfc963.css",
+    "static/js/main.17fbd728.js"
+  ]
+}
